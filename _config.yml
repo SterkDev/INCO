@@ -9,7 +9,7 @@ baseurl: "/inco" # the subpath of your site, e.g. /blog/
 url: "https://sterkdev.github.io" # the base hostname & protocol for your site
 
 # User setting
-owner: Start Bootstrap
+owner: STERK
 email: LeroyKim92@gmail.com
 facebook_username: 
 twitter_username: 
