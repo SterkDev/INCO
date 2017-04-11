@@ -18,11 +18,11 @@ address:
   - line: 대구광역시 북구 대학로 80
   - line: 경북대학교 정보전산원 110호
   # Feel free to add more lines here 
-telephone: (123) 456-7890
-copyright: Your Site
+telephone: (053) 950-6413
+copyright: Sterk
 
 # API settings
-google_api_key: AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
+google_api_key: AIzaSyC0GNtMWSt55WG3XZM_0CPmp2D1B0L98HE
 
 # Build settings
 markdown: kramdown
