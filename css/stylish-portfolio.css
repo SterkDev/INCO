@@ -158,8 +158,8 @@ hr.small {
     color: #fff;
     background:
         linear-gradient(
-            rgba(20,20,20, .5),
-            rgba(20,20,20, .5)),
+            rgba(20,20,20, .3),
+            rgba(20,20,20, .3)),
         url(../img/inco.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
